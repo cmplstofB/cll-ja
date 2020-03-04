@@ -3,21 +3,28 @@ abstract sumti	抽象スムティ
 abstraction	抽象化
 abstraction selbri	抽象化セルブリ
 abstractor	抽象詞
+accent	強勢 # 提案; 同じく「強勢」訳が多い “stress” は「強く」などと訳されている？
 achievement	到達点
 activity	活動
 afterthought	後置
 agent	動作主
+algorithm	算法 # 提案
 ambiguous  曖昧な
 amount	量
 anaphora	照応
 argument	項
-argument tag	項タグ
+argument tag	項タグ # →「項付加」（“tag” の提案を参照）
 aspect	相制
 assert	表明
 assign	割り当てる
 associator	連結詞	# 提案: 第8章の vu'o に対して
 attitudinal	心態詞
 attitudinal indicator	心態詞
+baseline	基本線 # 提案
+# 提案: “baseline” を「ベースライン」という音写語ではなく「基本線」という語に訳す。
+#      第21章などで用いられている “baseline” という語は，開発の段階を指す用語であるが，
+#      これについてJIS X 0020:1992『情報処理用語（システム開発）』において
+#      用語番号20.06.07「[開発]基本線 ([developmental] baseline)」という訳語を定めている。
 bridi	ブリディ
 bridi cmavo	代ブリディ	# 提案
 bridi negation	ブリディ否定
@@ -25,17 +32,25 @@ bridi-schema	ブリディ構成
 bridi-tail	ブリディ末端
 brivla	ブリヴラ
 cataphora	後方照応
+category	範疇 # 提案
 claim	言明
 cmavo	シマヴォ
 cmene	シメネ
 comment	評言	# 提案
+comment out	注釈化 # 提案（第21章など）
 complex	複合
 compound	合成
 compound cmavo	複合シマヴォ
 compound lerfu word	複合レルフ詞
+conflict	衝突 # 提案
 connection	接続
 connective	接続詞
 contradictory negation	矛盾否定
+contrast	対立 # 提案
+# 提案: “contrast” を「コントラスト」という音写語ではなく「対立」という語に訳す。
+#       次掲の「音素と異音：相補分布とミニマルペア」などで，
+#       発声・発話に関係する文脈における「信号」訳が見受けられる。
+#       <http://www.f.waseda.jp/yueno/phph_class_6.pdf>
 conversational protocol		# 求む提案: 第20章では「会語の手順」と訳したが
 conversion	転換 # （SE 類の機能）
 convert	転換 # （SE 類の機能）
@@ -52,6 +67,8 @@ dimensioned unit		# 求む提案: 第20章では「単位つきの量」とし�
 direct question	直接疑問
 discourse	談話	# universe of discourse と mathematical discourse 以外
 discursive	談話系
+document	文書 # 提案
+draft	草案 # 提案
 elidable	省略可能な
 ellipsize	省略
 ellipsis	省略
@@ -65,7 +82,8 @@ event	出来事
 event contour	事象線 # 検討中
 filter	フィルタ
 filtering	フィルタリング
-flag	フラグ	# 暫定
+flag	フラグ	# →「印」
+# 提案: “flag” を「フラグ」という音写語ではなく「印」という語に訳す。
 following	以下の/後続する	# 提案
 followed by	が後続する/を後置して	# 提案
 followed with	が後続する/を後置して	# 提案
@@ -92,7 +110,12 @@ interval   範囲		# 数学の場合「区間」のほうが適切か
 introducer	導入詞	# 提案
 James Cooke Brown	ジェームズ・クック・ブラウン
 joiner	結合詞	# 提案: 第8章第4節の zi'e の名前として
-label	ラベル／ラベル付け
+label	ラベル／ラベル付け # →「標示」／「標示付け」
+# 提案: “label” を「ラベル」という音写語ではなく「標示」という語に訳す。
+# ※「表示」ではなく，「標示」。
+#       次掲の生成文法・英文法用語日英対照表などで，
+#       言語に関係する文脈における「信号」訳が見受けられる。
+#       <http://www2.dokkyo.ac.jp/~esemi035/Doc/linguistic_terms1-EJ%20f-n.pdf>
 language-coded processing	言語符号化処理
 left-grouping rule	左結合則
 lerfu	レルフ
@@ -102,7 +125,7 @@ letteral	字詞
 lexer	字句解析器, 字句解析子（lexer token の略として出現する場合）
 Lexer Lexeme	字句解析語彙素
 lexer rule	字句解析規則
-lexer token	字句解析トークン
+lexer token	字句解析トークン/字句解析子 # 「字句解析子」は上記lexerとの整合を図ったもの。
 lexing  字句解析
 logical	論理的
 logical assertion 論理的表明
@@ -115,7 +138,11 @@ Lojbanist	ロジバン話者
 Logical Assertions	論理的表明
 lujvo	ルジヴォ
 mark	を示す	# 提案
-marker	マーカー
+marker	マーカー # →「標識」
+# 提案: “marker” を「マーカー」という音写語ではなく「標識」という語に訳す。
+#      例えば次掲文書（“pragmatic marker”が「語用標識」と訳されている）などで，
+#      言語論系の文脈における「標識」訳が見受けられる。
+#      <https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16K02637/>
 metalinguistic		メタ言語の	# 提案
 material conditional	論理包含
 mathematical	数学の/数学的	# 提案
@@ -146,6 +173,7 @@ operand	被演算子	# 提案
 operator	演算子	# 提案
 optional	任意の	# 提案
 outer quantifier	外部数量詞	# 提案
+pair	組 # 提案
 parse	構文解析
 parser	構文解析器／パーサ
 particle	小辞	# 提案: 他の案として「小詞」等
@@ -200,7 +228,11 @@ sentence	文
 sequence	並び # 提案
 shift	変意 #  提案
 shift word	変意詞 #  提案
-signal	シグナル	# 提案
+signal	シグナル # →「信号」
+# 提案: “signal” を「シグナル」という音写語ではなく「信号」という語に訳す。
+#      例えば次掲の論文などで，言語論系の文脈における「信号」訳が見受けられる。
+#      <http://hdl.handle.net/2433/128975>
+#      <https://doi.org/10.24467/onseikenkyu.3.1_20>
 something-unspecified	不特定の何か
 spatial tense	空間制
 speech	発言
@@ -210,6 +242,7 @@ stickiness	貼り付き # （ki の意味）
 sticky	貼り付く # （ki の意味）
 suffix	接尾辞
 suffix	後置する	# 提案
+sub category	下位範疇 # 提案
 sumti	スムティ
 sumti cmavo	代スムティ	# 提案
 sumti place	スムティの場所
@@ -217,7 +250,12 @@ sumti raising	スムティ昇格
 sumti tcita	法制スムティ
 syllable break	音節区切り
 symbol	記号	# 提案
-tag	タグ
+tag	タグ # →「付加」
+# 提案: “tag” を「タグ」という音写語ではなく「付加」という語に訳す。
+#      技術的文脈では “tag” は「タグ」と音写訳されるのが通例であるが，
+#     「付加疑問文 (tag question)」といった具合に，主に英語文法において “tag” は「付加」訳される。
+#      ロジバンにおける “tag” の意味合い（必須でなく，状況の説明を加えるべく用いられる）からも
+#      この “tag” は「付加」と訳すのが名辞的にも意味的にも，より適当であると思われる。
 tanru	タンル
 tanru unit	タンルの構成単位	# 提案
 tertau	テルタウ	# chapter6注
@@ -229,7 +267,7 @@ term	名辞
 terminal	定義語
 termset	名辞組
 text	文
-token	トークン
+token	字句 # 提案
 tri-valued logic	3値論理
 truth value	真偽値
 truth function	真偽関数
