@@ -3,7 +3,15 @@ abstract sumti	抽象スムティ
 abstraction	抽象化
 abstraction selbri	抽象化セルブリ
 abstractor	抽象詞
-accent	強勢 # 提案; 同じく「強勢」訳が多い “stress” は「強く」などと訳されている？
+accent	強勢 # 提案
+# 提案: “accent” を「アクセント」という音写語ではなく「強勢」という語に訳す。
+#      ロジバンにおける “accent” とは音の高低 (pitch) ではなく
+#      音の強弱 (stress) に依るものである。
+#      <http://mail.lojban.org/lojban-list/msg54990.html>
+#      故に “[stress] accent” を “stress” と同一視してよく，
+#      音の高低に依らないことを明示する意味でも，「強勢」と訳したほうが良いのではないか。
+#      なお，通常（“pitch” と区別して）「強勢」と訳されることが多い
+#      “stress” は，CCL-jaにおいては「強く」などと動詞的に訳されている。
 achievement	到達点
 activity	活動
 afterthought	後置
@@ -33,6 +41,9 @@ bridi-tail	ブリディ末端
 brivla	ブリヴラ
 cataphora	後方照応
 category	範疇 # 提案
+# 提案: “category” を「カテゴリ」という音写語ではなく「範疇」という語に訳す。
+#      言語に関する文脈では “category” という術語は「範疇」と訳されるようだ。
+#      <http://user.keio.ac.jp/~rhotta/hellog/2013-04-15.html>
 claim	言明
 cmavo	シマヴォ
 cmene	シメネ
@@ -271,6 +282,7 @@ token	字句 # 提案
 tri-valued logic	3値論理
 truth value	真偽値
 truth function	真偽関数
+type	種別, 型;計算機言語，又は明らかに計算機言語を念頭に置いた文脈において # 提案
 universe of discourse 議論領域
 unspecified value	不特定項 # （zo'e の意味）
 utterance	発話
