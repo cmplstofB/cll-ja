@@ -253,7 +253,7 @@ stickiness	貼り付き # （ki の意味）
 sticky	貼り付く # （ki の意味）
 suffix	接尾辞
 suffix	後置する	# 提案
-sub category	下位範疇 # 提案
+sub category	下位範疇 # 提案（“category” の提案を参照）
 sumti	スムティ
 sumti cmavo	代スムティ	# 提案
 sumti place	スムティの場所
