@@ -49,6 +49,8 @@ cmavo	シマヴォ
 cmene	シメネ
 comment	評言	# 提案
 comment out	注釈化 # 提案（第21章など）
+communicate	伝達する／意思疎通する # 提案
+communications	伝達／意思疎通 # 提案
 complex	複合
 compound	合成
 compound cmavo	複合シマヴォ
@@ -231,11 +233,18 @@ root word	根語
 scale	段階
 scalar negation	段階否定
 scope	（文中で）係る範囲	# 「掛かる」を「係る」に修正
+score	評点 # 提案
+scored	評点付け # 提案
 selbri	セルブリ
 selma'o	セルマホ
 seltau	セルタウ	# chapter9注
 semantic primitives	意味素
 sentence	文
+series	系列 # 提案
+# 提案: “series” を「シリーズ」という音写語ではなく「系列」という語に訳す。
+#      例えば『学術用語集 言語学編』（文部省ほか）に拠って，
+#      言語論系の文脈における “XXX series” は「XXX系列」と訳すのがよいと思われる。
+#      <https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201606021009333826>
 sequence	並び # 提案
 shift	変意 #  提案
 shift word	変意詞 #  提案
@@ -254,6 +263,7 @@ sticky	貼り付く # （ki の意味）
 suffix	接尾辞
 suffix	後置する	# 提案
 sub category	下位範疇 # 提案（“category” の提案を参照）
+sup type	下位種別 # “type” の提案を参照
 sumti	スムティ
 sumti cmavo	代スムティ	# 提案
 sumti place	スムティの場所
