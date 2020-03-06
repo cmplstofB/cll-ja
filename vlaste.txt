@@ -49,8 +49,8 @@ cmavo	シマヴォ
 cmene	シメネ
 comment	評言	# 提案
 comment out	注釈化 # 提案（第21章など）
-communicate	伝達する／意思疎通する # 提案
-communications	伝達／意思疎通 # 提案
+communicate	伝達する/意思疎通する # 提案
+communications	伝達/意思疎通 # 提案
 complex	複合
 compound	合成
 compound cmavo	複合シマヴォ
@@ -123,7 +123,7 @@ interval   範囲		# 数学の場合「区間」のほうが適切か
 introducer	導入詞	# 提案
 James Cooke Brown	ジェームズ・クック・ブラウン
 joiner	結合詞	# 提案: 第8章第4節の zi'e の名前として
-label	ラベル／ラベル付け # →「標示」／「標示付け」
+label	ラベル／ラベル付け # →「標示」/「標示付け」
 # 提案: “label” を「ラベル」という音写語ではなく「標示」という語に訳す。
 # ※「表示」ではなく，「標示」。
 #       次掲の生成文法・英文法用語日英対照表などで，
@@ -292,7 +292,7 @@ token	字句 # 提案
 tri-valued logic	3値論理
 truth value	真偽値
 truth function	真偽関数
-type	種別, 型;計算機言語，又は明らかに計算機言語を念頭に置いた文脈において # 提案
+type	種別; 型（計算機言語，又は明らかに計算機言語を念頭に置いた文脈において）# 提案
 universe of discourse 議論領域
 unspecified value	不特定項 # （zo'e の意味）
 utterance	発話
